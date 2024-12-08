@@ -9,7 +9,7 @@ def change_ip(interval):
         print(f"IP adresi değiştirildi: {new_ip}")
         time.sleep(interval)
 
-print("Hızlı hack işlerimi halledebilmem için ayarlanabilir tool men�s�")
+print("*İpChanger*")
 print("1. 30 saniye")
 print("2. 1 dakika")
 print("3. 5 dakika")
